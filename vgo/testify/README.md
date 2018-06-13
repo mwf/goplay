@@ -21,10 +21,10 @@ vgo: downloading github.com/pmezard/go-difflib v1.0.0
 vgo: import "github.com/davecgh/go-spew/spew/testdata" [/Users/ikorolev/dev/go/src/v/github.com/davecgh/go-spew@v1.1.0/spew/testdata]: no Go source files
 
 vgo test all
-ok		github.com/davecgh/go-spew/spew 		0.013s
-ok		github.com/mwf/goplay/vgo/testify		0.034s
-ok		github.com/pmezard/go-difflib/difflib	0.013s
-ok		github.com/stretchr/testify/assert		0.047s
+ok	github.com/davecgh/go-spew/spew 	0.013s
+ok	github.com/mwf/goplay/vgo/testify	0.034s
+ok	github.com/pmezard/go-difflib/difflib	0.013s
+ok	github.com/stretchr/testify/assert	0.047s
 
 ```
 
