@@ -4,6 +4,9 @@
 !*.*
 # Unignore all dirs
 !*/
+# Unignore corner-case files
+!LICENSE
+!README
 
 # Binaries for programs and plugins
 *.exe
