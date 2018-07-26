@@ -1,0 +1,4 @@
+github.com/mwf/goplay/vgo/replace/a v0.1.0 h1:2UC5SEhrKT87/OjUC8WGHL6mhgkUm3lL6Bn4kn0AqLg=
+github.com/mwf/goplay/vgo/replace/a v0.1.0/go.mod h1:LQbqU8O+G7TPYxo2Lt+2j1DymvKXMaCGDuvNpqddDTw=
+github.com/mwf/goplay/vgo/replace/a_fork v0.1.1 h1:F/b6nVNOanzc4EiKAkD35P8zlgyGgpV3cjWGq95xxCQ=
+github.com/mwf/goplay/vgo/replace/a_fork v0.1.1/go.mod h1:6mNBvJsqnr6XaskDj/Ip8zunOWGkTgMRQlsaej5rzas=
